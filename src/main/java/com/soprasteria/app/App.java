@@ -17,8 +17,7 @@ public class App
         RespuestaDw respuestaDw;
         //Staff staff;
 
-        //String fileName = "search-response.json";
-        String fileName = "5000_sin_links.json";
+        String fileName = "search-response_min.json";
         System.out.println("Cargamos " + fileName);            
         
 
@@ -36,8 +35,8 @@ public class App
             long timeElapsed = finish - start;
             
             // Java objects to JSON string - pretty-print
-            //String jsonInString2 = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(respuestaDw);            
-            //System.out.println(jsonInString2);
+            String jsonInString2 = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(respuestaDw);            
+            System.out.println(jsonInString2);
 
             System.out.println("Fin mapeo de json " + fileName + " a VO en " + timeElapsed + " ms" );            
 
