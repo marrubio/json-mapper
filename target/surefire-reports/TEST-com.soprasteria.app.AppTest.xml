@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.soprasteria.app.AppTest" time="0.072" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\EntornoIBuilder\WorkspaceNPA\json-mapper\target\test-classes;C:\EntornoIBuilder\WorkspaceNPA\json-mapper\target\classes;C:\Software\Repositorio\Maven3\junit\junit\4.11\junit-4.11.jar;C:\Software\Repositorio\Maven3\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Software\Repositorio\Maven3\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Software\Repositorio\Maven3\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Software\Repositorio\Maven3\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Software\Repositorio\Maven3\com\fasterxml\jackson-xml-databind\0.6.2\jackson-xml-databind-0.6.2.jar;C:\Software\Repositorio\Maven3\org\codehaus\jackson\jackson-mapper-asl\1.9.2\jackson-mapper-asl-1.9.2.jar;C:\Software\Repositorio\Maven3\org\codehaus\jackson\jackson-core-asl\1.9.2\jackson-core-asl-1.9.2.jar;C:\Software\Repositorio\Maven3\org\codehaus\jackson\jackson-xc\1.9.2\jackson-xc-1.9.2.jar;C:\Software\Repositorio\Maven3\org\codehaus\woodstox\stax2-api\3.1.0\stax2-api-3.1.0.jar;C:\Software\Repositorio\Maven3\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="ES"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Software\Java\jdk1.8.0_201\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\marrubio\AppData\Local\Temp\surefire4662298037534863179\surefirebooter4205414828066421994.jar C:\Users\marrubio\AppData\Local\Temp\surefire4662298037534863179 2021-03-24T10-38-43_997-jvmRun1 surefire1818583007808369191tmp surefire_01616589182218958032tmp"/>
+    <property name="surefire.test.class.path" value="C:\EntornoIBuilder\WorkspaceNPA\json-mapper\target\test-classes;C:\EntornoIBuilder\WorkspaceNPA\json-mapper\target\classes;C:\Software\Repositorio\Maven3\junit\junit\4.11\junit-4.11.jar;C:\Software\Repositorio\Maven3\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Software\Repositorio\Maven3\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Software\Repositorio\Maven3\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Software\Repositorio\Maven3\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Software\Repositorio\Maven3\com\fasterxml\jackson-xml-databind\0.6.2\jackson-xml-databind-0.6.2.jar;C:\Software\Repositorio\Maven3\org\codehaus\jackson\jackson-mapper-asl\1.9.2\jackson-mapper-asl-1.9.2.jar;C:\Software\Repositorio\Maven3\org\codehaus\jackson\jackson-core-asl\1.9.2\jackson-core-asl-1.9.2.jar;C:\Software\Repositorio\Maven3\org\codehaus\jackson\jackson-xc\1.9.2\jackson-xc-1.9.2.jar;C:\Software\Repositorio\Maven3\org\codehaus\woodstox\stax2-api\3.1.0\stax2-api-3.1.0.jar;C:\Software\Repositorio\Maven3\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\marrubio"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Software\Java\jdk1.8.0_201\jre"/>
+    <property name="basedir" value="C:\EntornoIBuilder\WorkspaceNPA\json-mapper"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\marrubio\AppData\Local\Temp\surefire4662298037534863179\surefirebooter4205414828066421994.jar"/>
+    <property name="sun.boot.class.path" value="C:\Software\Java\jdk1.8.0_201\jre\lib\resources.jar;C:\Software\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Software\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar;C:\Software\Java\jdk1.8.0_201\jre\lib\jsse.jar;C:\Software\Java\jdk1.8.0_201\jre\lib\jce.jar;C:\Software\Java\jdk1.8.0_201\jre\lib\charsets.jar;C:\Software\Java\jdk1.8.0_201\jre\lib\jfr.jar;C:\Software\Java\jdk1.8.0_201\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_201-b09"/>
+    <property name="user.name" value="marrubio"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Software\Java\jdk1.8.0_201\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Software\Repositorio\Maven3"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\marrubio\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_201"/>
+    <property name="user.dir" value="C:\EntornoIBuilder\WorkspaceNPA\json-mapper"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Software\Java\jdk1.8.0_201\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Software\Desarrollo\nodejs\;C:\ProgramData\chocolatey\bin;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Software\ControlVersiones\TortoiseSVN\bin;C:\Software\ControlVersiones\Git\cmd;C:\Program Files\WindowsPowerShell\Scripts\HP.ClientScriptLibrary;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\marrubio\AppData\Local\Microsoft\WindowsApps;C:\Software\Desarrollo\Maven102\bin;C:\Software\Desarrollo\apache-maven-3.6.1\bin;C:\Software\Java\jdk1.8.0_201\bin;C:\Software\Desarrollo\nodejs;C:\Users\marrubio\AppData\Roaming\npm;C:\Software\ControlVersiones\Git\bin;C:\Software\Ide\Microsoft VS Code\bin;C:\Software\Desarrollo\openshift-cli;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.201-b09"/>
+    <property name="java.ext.dirs" value="C:\Software\Java\jdk1.8.0_201\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.soprasteria.app.AppTest" time="0.002"/>
+</testsuite>

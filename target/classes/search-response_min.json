@@ -1,0 +1,341 @@
+{
+    "Count": {
+        "HasMore": false,
+        "Value": 6
+    },
+    "Items": [        
+        {
+            "Fields": [              
+                {
+                    "FieldName": "CANAL",
+                    "FieldLabel": "CANAL",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "501",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "NIFASEGURADO",
+                    "FieldLabel": "NIF ASEGURADO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "009700528W",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "COMPA_IA",
+                    "FieldLabel": "COMPAÑIA",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "C637",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "ENTIDAD",
+                    "FieldLabel": "ENTIDAD",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "2000",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "PROCESO",
+                    "FieldLabel": "PROCESO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "TA_PR",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "IMPRESO",
+                    "FieldLabel": "IMPRESO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "PCA019",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "PLANTILLA",
+                    "FieldLabel": "PLANTILLA",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "PCA019",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "FECHAPROCESO",
+                    "FieldLabel": "FECHA PROCESO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "/Date(1615939200000)/",
+                    "ItemElementName": "Date"
+                },
+                {
+                    "FieldName": "FONDOPENSION",
+                    "FieldLabel": "FONDO PENSION",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "E4FP",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "PLANPENSION",
+                    "FieldLabel": "PLAN PENSION",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "FU40",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "SUBPLAN",
+                    "FieldLabel": "SUBPLAN",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "0000",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "PARTICIPE",
+                    "FieldLabel": "PARTICIPE",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "1996004515",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "N_BOLETIN",
+                    "FieldLabel": "Nº BOLETIN",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "42020292925833",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "NOMBREASEGURADO",
+                    "FieldLabel": "NOMBRE ASEGURADO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "BUENAVENTURA-JOSE",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "APELLIDO1ASEGURADO",
+                    "FieldLabel": "APELLIDO1 ASEGURADO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "DIEZ",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "APELLIDO2ASEGURADO",
+                    "FieldLabel": "APELLIDO2 ASEGURADO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "ALAEZ",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "TIPODOCASEGURADO",
+                    "FieldLabel": "TIPO DOC. ASEGURADO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "NIF",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "TIPODOCBENEFICIARIO",
+                    "FieldLabel": "TIPO DOC. BENEFICIARIO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "NIF",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "NIFBENEFICIARIO",
+                    "FieldLabel": "NIF BENEFICIARIO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "009700528W",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "ANEXOGRAFICO",
+                    "FieldLabel": "MEDIO ENVIO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "WEB",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "FICHERO",
+                    "FieldLabel": "FICHERO",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "U210318083034L_UVDCAP_FC",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "FECHAMODIF",
+                    "FieldLabel": "FECHA MODIF",
+                    "IsNull": true,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "ItemElementName": "Date"
+                },
+                {
+                    "FieldName": "USUARIOMODIF",
+                    "FieldLabel": "USUARIO MODIF",
+                    "IsNull": true,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "COMUNICACION_DIGITAL",
+                    "FieldLabel": "COMUNICACION DIGITAL",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "Item": "SI",
+                    "ItemElementName": "String"
+                },
+                {
+                    "FieldName": "FECHA_DE_ENVIO",
+                    "FieldLabel": "FECHA DE ENVIO",
+                    "IsNull": true,
+                    "ReadOnly": false,
+                    "SystemField": false,
+                    "ItemElementName": "Date"
+                },
+                {
+                    "FieldName": "@CABINETNAME",
+                    "FieldLabel": "@CABINETNAME",
+                    "IsNull": false,
+                    "ReadOnly": false,
+                    "SystemField": true,
+                    "Item": "UCV_PEN_IORP",
+                    "ItemElementName": "String"
+                }
+            ],
+            "Flags": {
+                "IsCold": false,
+                "IsDBRecord": false,
+                "IsCheckedOut": false,
+                "IsCopyRightProtected": false,
+                "IsVoiceAvailable": false,
+                "HasAppendedDocuments": false,
+                "IsProtected": false,
+                "IsDeleted": false,
+                "IsEmail": false
+            },
+            "Links": [
+                {
+                    "rel": "self",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Documents/6"
+                },
+                {
+                    "rel": "fields",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Documents/6/Fields"
+                },
+                {
+                    "rel": "clippedDocuments",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Operations/ClippedDocuments?docId=6"
+                },
+                {
+                    "rel": "sections",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Sections?docId=6"
+                },
+                {
+                    "rel": "thumbnail",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Documents/6/Thumbnail?v=32043806&annotations=True"
+                },
+                {
+                    "rel": "thumbnailWithoutAnnotation",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Documents/6/Thumbnail?v=32043806&annotations=False"
+                },
+                {
+                    "rel": "lowQualityImage",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Documents/6/Image?v=32043806"
+                },
+                {
+                    "rel": "annotationAsSvg",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Documents/6/AnnotationAsImage?format=Svg&v=32043806"
+                },
+                {
+                    "rel": "lock",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Documents/6/Lock"
+                },
+                {
+                    "rel": "rights",
+                    "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Documents/6/Rights"
+                }
+            ],
+            "Sections": [],
+            "ContentType": "application/pdf",
+            "HaveMoreTotalPages": false,
+            "HasTextAnnotation": false,
+            "HasXmlDigitalSignatures": false,
+            "AnnotationsPreview": false,
+            "TotalPages": 2,
+            "Id": 6,
+            "Title": "U210318083034L_UVDCAP_FC.548",
+            "LastModified": "/Date(1616412173000)/",
+            "LastModifiedSpecified": true,
+            "CreatedAt": "/Date(1616411894000)/",
+            "CreatedAtSpecified": true,
+            "FileSize": 108188,
+            "SectionCount": 1,
+            "IntellixTrust": "None",
+            "VersionStatus": "Initial",
+            "FileCabinetId": "abbca656-3ace-4166-9ab3-eddd77a3ca0d"
+        }
+    ],
+    "Links": [
+        {
+            "rel": "first",
+            "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Query/Documents?q=ZGlhbG9nOzc3YjljYjUzLTA5MWEtNGYxMC1iNDVmLTI4MWE3OTQwNWI0Mjs7QW5kO0ZhbHNlOw%3D%3D&fields=CANAL%2CNIFASEGURADO&sortOrder=DWDOCID%20Asc&count=100"
+        },
+        {
+            "rel": "self",
+            "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Query/Documents?q=ZGlhbG9nOzc3YjljYjUzLTA5MWEtNGYxMC1iNDVmLTI4MWE3OTQwNWI0Mjs7QW5kO0ZhbHNlOw%3D%3D&fields=CANAL%2CNIFASEGURADO&sortOrder=DWDOCID%20Asc&count=100&start=0"
+        },
+        {
+            "rel": "download",
+            "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Query/Documents?q=ZGlhbG9nOzc3YjljYjUzLTA5MWEtNGYxMC1iNDVmLTI4MWE3OTQwNWI0Mjs7QW5kO0ZhbHNlOw%3D%3D&fields=CANAL%2CNIFASEGURADO&sortOrder=DWDOCID%20Asc"
+        },
+        {
+            "rel": "createUserDefinedSearch",
+            "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Operations/CreateUserDefinedSearch?q=ZGlhbG9nOzc3YjljYjUzLTA5MWEtNGYxMC1iNDVmLTI4MWE3OTQwNWI0Mjs7QW5kO0ZhbHNlOw%3D%3D"
+        },
+        {
+            "rel": "batchUpdate",
+            "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Operations/BatchQueryUpdateFields?q=ZGlhbG9nOzc3YjljYjUzLTA5MWEtNGYxMC1iNDVmLTI4MWE3OTQwNWI0Mjs7QW5kO0ZhbHNlOw%3D%3D&fields=CANAL%2CNIFASEGURADO&sortOrder=DWDOCID%20Asc"
+        },
+        {
+            "rel": "exportDocuments",
+            "href": "/DocuWare/Platform/FileCabinets/abbca656-3ace-4166-9ab3-eddd77a3ca0d/Archiving/Index?q=ZGlhbG9nOzc3YjljYjUzLTA5MWEtNGYxMC1iNDVmLTI4MWE3OTQwNWI0Mjs7QW5kO0ZhbHNlOw%3D%3D&fields=CANAL%2CNIFASEGURADO&sortOrder=DWDOCID%20Asc"
+        }
+    ],
+    "TimeStamp": "/Date(1616510797181)/"
+}
