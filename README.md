@@ -1,0 +1,2 @@
+Ejemplo práctico para cargar un fichero JSON a una clase Java.
+En este caso , se utiliza la salida de la operacion de busqueda de docuware para cargarla en una clase (VO) para poder recorrer los todos los objetos que contiene.

@@ -1,4 +1,4 @@
-package com.soprasteria.app.vo;
+package com.develop.app.vo;
 
 import java.math.BigDecimal;
 import java.util.List;

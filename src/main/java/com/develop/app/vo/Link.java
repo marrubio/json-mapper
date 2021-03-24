@@ -1,5 +1,5 @@
 
-package com.soprasteria.app.vo;
+package com.develop.app.vo;
 
 import java.util.HashMap;
 import java.util.Map;

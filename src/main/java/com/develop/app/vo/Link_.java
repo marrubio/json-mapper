@@ -1,5 +1,5 @@
 
-package com.soprasteria.app.vo;
+package com.develop.app.vo;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -12,36 +12,36 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @JsonPropertyOrder({
-    "HasMore",
-    "Value"
+    "rel",
+    "href"
 })
-public class Count {
+public class Link_ {
 
-    @JsonProperty("HasMore")
-    private Boolean hasMore;
-    @JsonProperty("Value")
-    private Integer value;
+    @JsonProperty("rel")
+    private String rel;
+    @JsonProperty("href")
+    private String href;
     @JsonIgnore
     private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
-    @JsonProperty("HasMore")
-    public Boolean getHasMore() {
-        return hasMore;
+    @JsonProperty("rel")
+    public String getRel() {
+        return rel;
     }
 
-    @JsonProperty("HasMore")
-    public void setHasMore(Boolean hasMore) {
-        this.hasMore = hasMore;
+    @JsonProperty("rel")
+    public void setRel(String rel) {
+        this.rel = rel;
     }
 
-    @JsonProperty("Value")
-    public Integer getValue() {
-        return value;
+    @JsonProperty("href")
+    public String getHref() {
+        return href;
     }
 
-    @JsonProperty("Value")
-    public void setValue(Integer value) {
-        this.value = value;
+    @JsonProperty("href")
+    public void setHref(String href) {
+        this.href = href;
     }
 
     @JsonAnyGetter
